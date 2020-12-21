@@ -43,7 +43,7 @@
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a> 
   
   <a href="https://developer.android.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/android/android-plain.svg" alt="android" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/android/android-plain.svg" alt="android" width="40" height="40"/></a>
 
   <a href="https://developer.android.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/archive/3/34/20201120181649%21Android_Studio_icon.svg" alt="android" width="40" height="40"/></a>
