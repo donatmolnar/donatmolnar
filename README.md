@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### I'm Donát.
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=donatmolnar.donatmolnar)
+
+
 <!--
 **donatmolnar/donatmolnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
