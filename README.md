@@ -15,7 +15,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a>
 
   <a href="https://www.javascript.com/" target="_blank"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="typescript" width="30" height="30"/> </a>
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="javascript" width="30" height="30"/> </a>
 
   <a href="https://nodejs.org" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="30" height="30"/> </a>
@@ -34,7 +34,7 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a>
 
   <a href="https://code.visualstudio.com" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="bash" width="30" height="30"/> </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="30" height="30"/> </a>
   </p>
 
   <h4 align="left">Side projects:</h4>
@@ -56,8 +56,8 @@
   <h4 align="left">Contact:</h4>
 <p align="left">
 
-  <a href="www.linkedin.com/in/donatmolnar" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/linkedin/linkedin-original.svg" alt="photoshop" width="30" height="30"/> </a>
+  <a href="https://www.linkedin.com/in/donatmolnar" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> </a>
 </p>
 
 
