@@ -12,10 +12,10 @@
 <p align="left">
 
   <a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <img src="./src/typescript-plain.svg" alt="typescript" width="40" height="40"/></a>
 
   <a href="https://www.javascript.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="javascript" width="40" height="40"/></a>
+  <img src="./src/javascript-plain.svg" alt="javascript" width="40" height="40"/></a>
 
   <a href="https://nodejs.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/></a>
