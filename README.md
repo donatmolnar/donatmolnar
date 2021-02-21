@@ -1,5 +1,5 @@
 # 👋 Hi there, my name is Donát.
-### I am an aspiring Full Stack Web Developer (in the making).
+### I am an aspiring Full Stack Developer / DevOps Engineer.
  
  
  - 🔭 I’m currently working on broadening and deepening my knowledge in coding.
