@@ -46,7 +46,7 @@
 <p align="left">
 
 <a href="https://golang.org/" target="_blank">
-<img src="./src/go.png" alt="golang" width="70" height="30"/></a>
+<img src="./src/go.png" alt="golang" width="40" height="40"/></a>
 
 <a href="https://www.python.org/" target="_blank">
 <img src="./src/python-original.svg" alt="pyton" width="40" height="40"/></a>
