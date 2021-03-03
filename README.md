@@ -46,7 +46,7 @@
 <p align="left">
 
 <a href="https://golang.org/" target="_blank">
-<img src="./src/go.png" alt="golang" width="80" height="40"/></a>
+<img src="./src/go.png" alt="golang" width="70" height="30"/></a>
 
 <a href="https://www.python.org/" target="_blank">
 <img src="./src/python-original.svg" alt="pyton" width="40" height="40"/></a>
@@ -67,10 +67,10 @@
  
  
 <a href="https://www.docker.com/" target="_blank">
-<img src="./src/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<img src="./src/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>
 
 <a href="https://aws.amazon.com/" target="_blank">
-<img src="./src/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+<img src="./src/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a>
 
 <a href="https://www.terraform.io/" target="_blank">
 <img src="./src/terraform.png" alt="terraform" width="40" height="40"/></a>
