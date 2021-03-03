@@ -46,7 +46,7 @@
 <p align="left">
 
 <a href="https://golang.org/" target="_blank">
-<img src="./src/go.png" alt="golang" width="40" height="40"/></a>
+<img src="./src/go.png" alt="golang" width="50" height="50"/></a>
 
 <a href="https://www.python.org/" target="_blank">
 <img src="./src/python-original.svg" alt="pyton" width="40" height="40"/></a>
@@ -66,13 +66,13 @@
 <p align="left">
  
  
-<a href="https://www.docker.com/" target="_blank">
-<img src="./src/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>
+<a href="https://www.docker.com/" target="_blank"> 
+<img src="./src/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a>
 
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="./src/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a>
+<a href="https://aws.amazon.com/" target="_blank"> 
+<img src="./src/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/></a>
 
-<a href="https://www.terraform.io/" target="_blank">
+<a href="https://www.terraform.io/" target="_blank"> 
 <img src="./src/terraform.png" alt="terraform" width="40" height="40"/></a>
 
 <a href="https://www.pulumi.com/" target="_blank">
