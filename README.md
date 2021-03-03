@@ -10,22 +10,8 @@
  
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="./src/typescript-plain.svg" alt="typescript" width="40" height="40"/></a>
-
-  <a href="https://www.javascript.com/" target="_blank">
-  <img src="./src/javascript-plain.svg" alt="javascript" width="40" height="40"/></a>
-
-  <a href="https://nodejs.org" target="_blank">
-  <img src="./src/nodejs-plain.svg" alt="nodejs" width="40" height="40"/></a>
-
-  <a href="https://www.w3.org/html/" target="_blank">
-  <img src="./src/html5-plain.svg" alt="html5" width="40" height="40"/></a>
-
- <a href="https://www.w3schools.com/css/" target="_blank">
- <img src="./src/css3-plain.svg" alt="css3" width="40" height="40"/></a> 
-
+ 
+ 
  <a href="https://git-scm.com/" target="_blank">
   <img src="./src/git-plain.svg" alt="git" width="40" height="40"/></a>
  
@@ -35,6 +21,69 @@
   <a href="https://code.visualstudio.com" target="_blank">
   <img src="./src/vscode.svg.png" alt="VSCode" width="40" height="40"/></a>
   </p>
+ 
+<h5 align="left">Frontend:</h5>
+<p align="left">
+ 
+  <a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="./src/typescript-plain.svg" alt="typescript" width="40" height="40"/></a>
+ 
+ <a href="https://www.javascript.com/" target="_blank">
+ <img src="./src/javascript-plain.svg" alt="javascript" width="40" height="40"/></a>
+
+ <a href="https://www.w3.org/html/" target="_blank">
+ <img src="./src/html5-plain.svg" alt="html5" width="40" height="40"/></a>
+
+ <a href="https://www.w3schools.com/css/" target="_blank">
+ <img src="./src/css3-plain.svg" alt="css3" width="40" height="40"/></a>
+ 
+ <a href="https://webpack.js.org/" target="_blank">
+ <img src="./src/webpack-original.svg" alt="webpack" width="40" height="40"/></a>
+
+
+
+<h5 align="left">Backend:</h5>
+<p align="left">
+
+<a href="https://golang.org/" target="_blank">
+<img src="./src/go.png" alt="golang" width="80" height="40"/></a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="./src/python-original.svg" alt="pyton" width="40" height="40"/></a>
+
+<a href="https://nodejs.org" target="_blank">
+<img src="./src/nodejs-plain.svg" alt="nodejs" width="40" height="40"/></a>
+ 
+<a href="https://expressjs.com/" target="_blank">
+<img src="./src/express-original.svg" alt="express" width="40" height="40"/></a>
+
+<a href="https://mochajs.org/" target="_blank">
+<img src="./src/mocha-plain.svg" alt="mocha" width="40" height="40"/></a>
+ 
+ 
+ 
+<h5 align="left">DevOps:</h5>
+<p align="left">
+ 
+ 
+<a href="https://www.docker.com/" target="_blank">
+<img src="./src/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="./src/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+
+<a href="https://www.terraform.io/" target="_blank">
+<img src="./src/terraform.png" alt="terraform" width="40" height="40"/></a>
+
+<a href="https://www.pulumi.com/" target="_blank">
+<img src="./src/pulumi.svg" alt="pulumi" width="40" height="40"/></a>
+
+<a href="https://www.nagios.org/" target="_blank">
+<img src="./src/nagios.png" alt="nagios" width="40" height="40"/></a>
+
+<a href="https://www.jenkins.io/" target="_blank">
+<img src="./src/jenkins-original.svg" alt="jenkins" width="40" height="40"/></a>
+
 
   <h4 align="left">Side projects:</h4>
 <p align="left">
