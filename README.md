@@ -1,16 +1,20 @@
 # 👋 Hi there, my name is Donát.
-### ☁️ Cloud && DevOps Engineer
+### ☁️ Cloud DevOps Engineer
  
  
  - 🔭 I’m motivated by continuous learning and exciting challenges.
- - ☁️ Currently I'm preparing for my next AWS certification (Developer Associate).
+ - ☁️ Currently I'm preparing for my next certification: HashiCorp Certified: Terraform Associate (003).
  - 🟢🦊🎓 I’m a Green Fox Academy alumni: graduated as DevOps Engineer / Full Stack Developer.
 
 <h4 align="left">Certifications:</h4>
 <p align="left"> 
 
  <a href="https://www.credly.com/badges/3cc918a1-cef3-4f3d-92a9-2badeb91c133/public_url" target="_blank">
-  <img src="./src/aws-saa-badge.png" alt="SAA" width="200" height="200"/></a>
+  <img src="./src/aws-saa-badge.png" alt="SAA" width="180" height="180"/></a>
+
+ <a href="https://www.credly.com/badges/604309da-41a5-46e2-913d-260776030ae9" target="_blank">
+  <img src="./src/cka_from_cncfsite__281_29.png" alt="CKA" width="180" height="180"/></a>
+  
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
@@ -95,6 +99,3 @@
   <a href="https://www.linkedin.com/in/donatmolnar" target="_blank">
   <img src="./src/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>
 </p>
-
-
-![Profile views](https://gpvc.arturio.dev/donatmolnar)
